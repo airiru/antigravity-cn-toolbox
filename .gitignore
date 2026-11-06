@@ -1,0 +1,17 @@
+# 依赖
+node_modules/
+
+# 日志
+*.log
+npm-debug.log*
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 编辑器 / 工作区配置
+.vscode/
+.idea/
+
+

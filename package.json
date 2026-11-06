@@ -1,0 +1,8 @@
+{
+  "name": "antigravity-hanhua-toolbox",
+  "private": true,
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@electron/asar": "^4.3.1"
+  }
+}
