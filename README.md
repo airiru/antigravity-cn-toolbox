@@ -34,7 +34,7 @@
 
 ### 安装汉化
 
-1. 把**整个**「Antigravity汉化工具箱」文件夹复制到目标电脑（注意：不能只拷 `.bat` 文件）。
+1. 把**整个**「antigravity-cn-toolbox」文件夹复制到目标电脑（注意：不能只拷 `.bat` 文件）。
 2. 确保已安装 Antigravity，并**完全退出**。
 3. 双击 **`一键汉化.bat`**，等待提示"汉化完成"（约 10-60 秒，期间会自动关闭并重启 Antigravity）。
 4. 重新打开 Antigravity，界面即为中文。
@@ -49,7 +49,7 @@
 ## 📂 目录说明
 
 ```
-Antigravity汉化工具箱/
+antigravity-cn-toolbox/
 ├── 一键汉化.bat           # 安装汉化入口
 ├── 一键还原.bat           # 还原官方英文入口
 ├── localization_engine.js # 汉化主程序（便携版，ASAR 解包/注入/重打包）
